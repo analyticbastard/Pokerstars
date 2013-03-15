@@ -1,0 +1,2 @@
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\ConsoleApplication1\PokerstarsStalker\obj\Debug\ConsoleApplication1.exe
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\ConsoleApplication1\PokerstarsStalker\obj\Debug\ConsoleApplication1.pdb
